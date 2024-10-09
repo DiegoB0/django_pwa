@@ -89,7 +89,7 @@ cd myproject
 python manage.py migrate
 ```
 
-6.- Run the server
+7.- Run the server
 
 ```bash
 python manage.py runserver
