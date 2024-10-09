@@ -7,19 +7,19 @@
 
 ## Requirements
 
-> - You'll need to have [Python](https://www.python.org/downloads/) installed.
-    You can check if u have it installed with:
-
-```python
-  python --version
-```
-
-> - Set [pip](https://pypi.org/project/pip/) in your environment variables.
-    You can also check with a:
-
-```python
-  pip --version
-```
+> - You'll need to have [Python](https://www.python.org/downloads/) installed. <br>
+>    You can check if u have it installed with:
+>
+> ```python
+>   python --version
+> ```
+>
+> - Set [pip](https://pypi.org/project/pip/) in your environment variables. <br>
+>    You can also check with a:
+>
+> ```python
+>  pip --version
+> ```
 
 ## Setup
 
