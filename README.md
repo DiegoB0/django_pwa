@@ -76,7 +76,14 @@ source myvenv/bin/activate
 pip install -r requirements.txt
 ```
 
-5.- Run the migrations
+5.- Enter the myproject directory/folder
+
+
+```bash
+cd myproject
+```
+
+6.- Run the migrations
 
 ```bash
 python manage.py migrate
