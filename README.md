@@ -43,11 +43,17 @@
 
 ```bash
 git clone https://github.com/DiegoB0/django_pwa.git
-cd your-repository
+cd django_pwa
 ```
 
 2.- Create a virtual environment
 
+  - On Windows:
+```cmd
+python -m venv myvenv
+```
+
+  - On Linux
 ```bash
 python3 -m venv myvenv
 ```
