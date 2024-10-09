@@ -7,6 +7,8 @@
 
 ## Requirements
 
+#### Python
+
 > - You'll need to have [Python](https://www.python.org/downloads/) installed. <br>
 >    You can check if u have it installed with:
 >
@@ -20,6 +22,9 @@
 >python --version
 > ```
 >
+
+#### Pip
+
 > - Set [pip](https://pypi.org/project/pip/) in your environment variables. <br>
 >    You can also check with a:
 >
